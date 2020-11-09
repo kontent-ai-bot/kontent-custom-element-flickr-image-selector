@@ -21,7 +21,7 @@ Netlify has made this easy. If you click the deploy button below, it will guide 
 
 ## JSON Parameters
 
-the `apiKey` property is required. This is your [Flickr API key](https://www.flickr.com/services/developer/api/).
+the `apikey` property is required. This is your [Flickr API key](https://www.flickr.com/services/developer/api/).
 
 ```Json
 {
