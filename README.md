@@ -25,7 +25,7 @@ the `apiKey` property is required. This is your [Flickr API key](https://www.fli
 
 ```Json
 {
-  "apiKey": "[YOUR KEY]"
+  "apikey": "[YOUR KEY]"
 }
 ```
 
